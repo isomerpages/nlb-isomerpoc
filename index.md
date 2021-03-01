@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Video Learning Platform
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -34,3 +34,7 @@ sections:
         button: View More
 ---
 
+<h2>Featured Video</h2>
+<div class="bp-youtube">
+<iframe src="https://pro.panopto.com/Panopto/Pages/Embed.aspx?tid=9d6584f5-c07b-4962-a9ab-acde00af9e4a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width=720 height=405 style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+</div>
