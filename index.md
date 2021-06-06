@@ -32,4 +32,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: Latest
+      subtitle: "From the Stacks:"
+      description: Letters from Sir Thomas Stamford Raffles to Lord Lansdowne
+      button: View
+      url: https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=461865bf-3321-4156-b075-ad2c004465ed
+      image: /images/nlnas1_r.jpg
+      alt: View Video
 ---
