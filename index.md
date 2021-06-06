@@ -38,4 +38,14 @@ sections:
       url: https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=b7bbb342-b667-4185-b126-ad19000fdbdb
       image: /images/vid1_r.png
       alt: View Video
+  - infopic:
+      title: Popular
+      subtitle: Storytime
+      description: Join us for Storytime with Senior Minister of State, Sim Ann, as
+        she brings us on a journey of love and self-discovery with an old
+        forgotten rocking horse.
+      button: View
+      url: https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=64ad64b6-8045-4d53-9da3-ad3a00a2a984
+      image: /images/ct1_r.jpg
+      alt: View Video
 ---
