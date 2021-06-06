@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Video Learning Platform
+title: NLB Singapore
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
