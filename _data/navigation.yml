@@ -6,7 +6,5 @@ links:
     url: /home/
   - title: Collection
     url: /collection/
-  - title: Poc
-    collection: poc
   - title: Poc Room
     resource_room: true
