@@ -30,4 +30,12 @@ sections:
       url: https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=461865bf-3321-4156-b075-ad2c004465ed
       image: /images/nlnas1_r.jpg
       alt: View Video
+  - infopic:
+      title: Featured
+      subtitle: S.U.R.E.
+      description: Be SURE before you share
+      button: View
+      url: https://nlb.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=b7bbb342-b667-4185-b126-ad19000fdbdb
+      image: /images/vid1_r.png
+      alt: View Video
 ---
