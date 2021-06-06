@@ -22,16 +22,6 @@ sections:
         - title: Live Stream
           description: Programmes and events
           url: https://nlb.ap.panopto.com
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: Latest
       subtitle: "From the Stacks:"
