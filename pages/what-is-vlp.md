@@ -11,5 +11,4 @@ permalink: /vlp
 
 <iframe src="https://nlb.ap.panopto.com/Panopto/Pages/Embed.aspx?id=461865bf-3321-4156-b075-ad2c004465ed&autoplay=true&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
-<div align="center">[View More](https://nlb.ap.panopto.com)
-
+<div align="center">[View More](https://nlb.ap.panopto.com)</div>
