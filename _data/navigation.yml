@@ -2,7 +2,5 @@ logo: /images/NLBlogo.png
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Home
-    url: /home/
-  - title: Collection
-    url: /collection/
+  - title: What is VLP?
+    url: /vlp/
