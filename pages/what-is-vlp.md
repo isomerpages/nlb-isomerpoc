@@ -1,7 +1,8 @@
 ---
-title: What is VLP
+title: What is "VLP"
 permalink: /vlp
 ---
+
 ## Video Learning Platform
 ## 
 * One-stop learning portal "VLP"
