@@ -2,9 +2,8 @@
 title: What is "VLP"
 permalink: /vlp
 ---
-
 ## Video Learning Platform
-## 
+
 * One-stop learning portal "VLP"
 * Videos on Demands (VODs)
 * LIVE-stream programmes and events
